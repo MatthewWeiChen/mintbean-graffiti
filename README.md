@@ -14,7 +14,7 @@ A Mario themed MS Paint clone.
 
 ## Live Demo
 
-Try the application live at [https://mariograffiti.evelynpei.com/](https://mariograffiti.evelynpei.com/)
+Try the application live at [https://mariograffiti.mattweichen.tech/](https://mariograffiti.mattweichen.tech/)
 
 ## Features
 
@@ -41,6 +41,6 @@ Try the application live at [https://mariograffiti.evelynpei.com/](https://mario
 1. Clone the repository.
 
     ```shell
-    git clone https://github.com/pei-evelyn/mintbean-graffiti.git
+    git clone https://github.com/matthewweichen/mintbean-graffiti.git
     cd mintbean-graffiti
     ```
